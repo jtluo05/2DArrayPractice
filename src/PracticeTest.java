@@ -1,10 +1,7 @@
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertTrue;
 
-import org.junit.FixMethodOrder;
-import org.junit.runners.MethodSorters;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 class PracticeTest {
     @Test
     void test_1_Init1() {
